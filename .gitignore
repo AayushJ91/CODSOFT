@@ -1,0 +1,18 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Ignore datasets
+*.csv
+CardFraud/Data/
+*.txt
+Genre_Classification/Data/
+
+# Ignore Python virtual environments
+myenv/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
